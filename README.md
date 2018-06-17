@@ -3,7 +3,7 @@
 Write your username here
 Owners :
 1. raghavm10 (Raghav Mishra)
-2.
+2. kudalkaritesh (Ritesh Kudalkar)
 3.
 4.
 5.
